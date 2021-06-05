@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+creds.json
 # production
 /build
 
